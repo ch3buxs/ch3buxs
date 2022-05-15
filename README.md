@@ -14,3 +14,7 @@
 
 [![Discord](https://img.shields.io/badge/-Discord_server-f98cff?style=for-the-badge&logo=discord)](https://discord.gg/gesVmX7D9R)
 [![Steam](https://img.shields.io/badge/-Steam-f98cff?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/uwuvka)
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChebupeLXS)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chebupelxs&count_private=true&show_icons=true&bg_color=DEG,f98cff,c658cc&title_color=000000)
