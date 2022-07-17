@@ -1,4 +1,4 @@
-# I'm ChebupeLXS 👋
+# I'm ChebupeLXS and also сh3buxs 👋
 
 ## Languages and Tools
 
