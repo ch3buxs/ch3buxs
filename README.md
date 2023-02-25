@@ -12,7 +12,7 @@
 
 ## My social networks
 
-[![Discord](https://img.shields.io/badge/-Discord_server-f98cff?style=for-the-badge&logo=discord)](https://discord.gg/gesVmX7D9R)
+[![Discord](https://img.shields.io/badge/-Discord_server-f98cff?style=for-the-badge&logo=discord)](https://discord.gg/)
 [![Steam](https://img.shields.io/badge/-Steam-f98cff?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/uwuvka)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChebupeLXS)](https://github.com/anuraghazra/github-readme-stats) -->
