@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/-Python-f98cff?style=for-the-badge&logo=python)
 ![Discord.py](https://img.shields.io/badge/-Discord.py-f98cff?style=for-the-badge&logo=discord)
 ![Disnake](https://img.shields.io/badge/-Disnake-f98cff?style=for-the-badge&logo=discord)
-![Aiogram](https://img.shields.io/badge/-git-f98cff?style=for-the-badge&logo=telegram)
+![Aiogram](https://img.shields.io/badge/-Aiogram-f98cff?style=for-the-badge&logo=telegram)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f98cff?style=for-the-badge&logo=mongodb)
 ![Json](https://img.shields.io/badge/-Json-f98cff?style=for-the-badge&logo=json)
 ![Git](https://img.shields.io/badge/-git-f98cff?style=for-the-badge&logo=git)
