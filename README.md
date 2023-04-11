@@ -6,11 +6,11 @@
 ![Discord.py](https://img.shields.io/badge/-Discord.py-f98cff?style=for-the-badge&logo=discord)
 ![Disnake](https://img.shields.io/badge/-Disnake-f98cff?style=for-the-badge&logo=discord)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-f98cff?style=for-the-badge&logo=telegram)
-![Mercuryo](https://img.shields.io/badge/-Mercuryo-f98cff?style=for-the-badge&logo=mercuryo)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f98cff?style=for-the-badge&logo=mongodb)
 ![Json](https://img.shields.io/badge/-Json-f98cff?style=for-the-badge&logo=json)
 ![Git](https://img.shields.io/badge/-git-f98cff?style=for-the-badge&logo=git)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f98cff?style=for-the-badge&logo=PostgreSQL)
+![Mercuryo api](https://img.shields.io/badge/-Mercuryo-f98cff?style=for-the-badge&logo=mercuryo)
 
 ## My social networks
 
