@@ -10,6 +10,7 @@
 ![Json](https://img.shields.io/badge/-Json-f98cff?style=for-the-badge&logo=json)
 ![Git](https://img.shields.io/badge/-git-f98cff?style=for-the-badge&logo=git)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f98cff?style=for-the-badge&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-f98cff?style=for-the-badge&logo=MySQL)
 
 ## My social networks
 
