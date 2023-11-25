@@ -1,21 +1,20 @@
-# I'm ChebupeLXS and also сh3buxs 👋
+# I'm сh3buxs 👋
 
-## Languages and Tools
+---
 
-![Python](https://img.shields.io/badge/-Python-f98cff?style=for-the-badge&logo=python)
-![Discord.py](https://img.shields.io/badge/-Discord.py-f98cff?style=for-the-badge&logo=discord)
-![Disnake](https://img.shields.io/badge/-Disnake-f98cff?style=for-the-badge&logo=discord)
-![Aiogram](https://img.shields.io/badge/-Aiogram-f98cff?style=for-the-badge&logo=telegram)
-![MongoDB](https://img.shields.io/badge/-MongoDB-f98cff?style=for-the-badge&logo=mongodb)
-![Json](https://img.shields.io/badge/-Json-f98cff?style=for-the-badge&logo=json)
-![Git](https://img.shields.io/badge/-git-f98cff?style=for-the-badge&logo=git)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f98cff?style=for-the-badge&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-f98cff?style=for-the-badge&logo=MySQL)
+### :hammer_and_wrench: Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Java" alt="Java" width="40" height="40"/>
+</div>
+
+### :fire: Activity:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ch3buxs)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3buxs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My social networks
 
 [![Steam](https://img.shields.io/badge/-Steam-f98cff?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/uwuvka)
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChebupeLXS)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chebupelxs&count_private=true&show_icons=true&bg_color=DEG,f98cff,c658cc&title_color=000000)
